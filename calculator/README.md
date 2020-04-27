@@ -19,4 +19,4 @@ Download this repository and open `index.html`
 
 ## Contact
 
-If you have questions, please send me message to my e-mail: [](k.wojtas172@gmail.com)
+If you have questions, please send me message to my e-mail: **k.wojtas172@gmail.com**
